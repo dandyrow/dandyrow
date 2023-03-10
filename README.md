@@ -1,4 +1,4 @@
-### Hi, I'm Daneil a computer science graduate with a passion for open source.
+### Hi, I'm Daniel a computer science graduate with a passion for open source.
 
 - 🔭 I’m currently working on developing extensions to Ansible & Terraform automation platforms.
 - 🌱 I’m currently learning automated deployment & provisioing of full IT systems.
