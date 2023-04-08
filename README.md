@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with 
 - 💬 Ask me about fully automating the deployment of my entire homelab.
 - 📫 How to reach me: Send me an email at [development@daniellowry.co.uk](mailto://development@daniellowry.co.uk)
-- ⚡ Fun fact: I'm an avid rower, as in olympic style rowing & racing.
+- ⚡ Fun fact: I'm an avid rower.
